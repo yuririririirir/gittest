@@ -14,6 +14,8 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("LOG","로그1");
+        Log.d("LOG","로그2");
+        Log.d("LOG","로그3");
     }
 
 
